@@ -1,4 +1,4 @@
-Here we are using the XAMPp software tool to implement our PHP and MySQL project
+Here we are using the XAMPP software tool to implement our PHP and MySQL project
 
 
 Installation:
